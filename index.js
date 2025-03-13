@@ -12,7 +12,7 @@ const testimonials = [
     {
         name: 'Jhon Snow',
         photoUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-        text: "The structured approach to learning on this practice page is excellent. I particularly appreciated the way it introduced [Specific Coding Concept, e.g., HTML, CSS, JavaScript] in a logical and progressive manner. The ability to test my code in real-time was invaluable, and the clear explanations of error messages helped me debug effectively. This is a valuable resource for anyone serious about improving their coding skills."
+        text: "The structured approach to learning on this practice page is excellent. I particularly appreciated the way it introduced HTML, CSS and JavaScript in a logical and progressive manner. The ability to test my code in real-time was invaluable, and the clear explanations of error messages helped me debug effectively. This is a valuable resource for anyone serious about improving their coding skills."
     }
 ];
 
